@@ -1,0 +1,4 @@
+-e git+https://github.com/etsy/logster.git@086825cd1e3d6c65a36881918b45c1f811f9a9e3#egg=logster-master
+nose==1.3.6
+pygtail==0.5.3
+wsgiref==0.1.2

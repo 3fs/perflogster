@@ -1,0 +1,7 @@
+**.pyc
+build/
+dist/
+perf_logster.egg-info/
+/env
+/state
+/log
