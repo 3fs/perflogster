@@ -7,13 +7,14 @@ except ImportError:
 
 
 setup(
-    name='perf-logster',
+    name='perflogster',
     version='0.0.1',
     description='Custom performance log parser',
     author='3fs',
-    url='https://github.com/3fs/perf-logster',
+    url='https://github.com/3fs/perflogster',
+    download_url='https://github.com/3fs/perflogster/releases/tag/0.0.1',
     packages=[
-        'perf_logster'
+        'perflogster'
     ],
     zip_safe=False,
     license='GPL3',
