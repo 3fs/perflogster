@@ -1,4 +1,4 @@
-from perf_logster.PerformanceLogster import PerformanceLogster
+from perflogster.PerformanceLogster import PerformanceLogster
 from logster.logster_helper import MetricObject
 import unittest
 import sys

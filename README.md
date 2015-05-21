@@ -1,4 +1,4 @@
-# perf-logster [![Build Status](https://travis-ci.org/3fs/perf-logster.svg?branch=master)](https://travis-ci.org/3fs/perf-logster)
+# perflogster [![Build Status](https://travis-ci.org/3fs/perflogster.svg?branch=master)](https://travis-ci.org/3fs/perflogster)
 
 Custom parser module for [logster](https://github.com/etsy/logster) used to collect and process performance data.
 
@@ -95,8 +95,8 @@ Following metrics would be generated:
 ## Developing
 
 ```
-git clone git@github.com:3fs/perf-logster.git
-cd perf-logster
+git clone git@github.com:3fs/perflogster.git
+cd perflogster
 make dev
 make qa
 ```
