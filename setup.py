@@ -16,6 +16,12 @@ setup(
     packages=[
         'perflogster'
     ],
+    install_requires=[
+        'logster>=0.0.1'
+    ],
+    dependency_links = [
+        'https://github.com/etsy/logster/tarball/master#egg=logster-0.0.1'
+    ],
     zip_safe=False,
     license='GPL3',
     test_suite='tests',
