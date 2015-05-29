@@ -8,7 +8,7 @@ except ImportError:
 
 setup(
     name='perflogster',
-    version='0.0.2',
+    version='0.0.3',
     description='Custom performance log parser',
     author='3fs',
     url='https://github.com/3fs/perflogster',
